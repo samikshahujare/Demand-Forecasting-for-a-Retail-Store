@@ -10,10 +10,10 @@ This project predicts the future demand for products in a retail store using mac
 ✅ Forecasting demand for upcoming time periods
 
 🛠 Technologies Used :
-Python
+Python,
 Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
+Scikit-learn,
+Matplotlib, Seaborn,
 Jupyter Notebook
 
 📂 Dataset :
